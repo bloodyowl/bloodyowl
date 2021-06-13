@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="250" height="16" viewBox="0 0 250 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <text fill="#3D905E" fill-rule="evenodd" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-size="16" font-weight="bold">
+  <text transform="translate(0)" opacity="0" fill="#3D905E" fill-rule="evenodd" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-size="16" font-weight="bold">
     <tspan x="-1" y="12">→ bloodyowl.io</tspan>
+    <animate attributeName="opacity" dur="300ms" values="0;1" begin="400ms" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" dur="300ms" begin="400ms" from="-5" to="0" fill="freeze"/>
   </text>
 </svg>

@@ -1,4 +1,4 @@
-# Hi!
+# hi 👋
 
 My name is **Matthias Le Brun** (aka [@bloodyowl](https://bsky.app/profile/bloodyowl.io)).
 
